@@ -10,16 +10,13 @@ Inspired by [Josh Branchaud's](https://github.com/jbranchaud/til).
 
 ## Categories
 
-- [TIL](#til)
-	- [Categories](#categories)
-		- [RL](#rl)
-	- [License](#license)
+* [RL](#rl)
 
 ---
 
 ### RL
 
-- [delonghi magnifica 3000b](rl/ack-bar.md)
+- [delonghi magnifica 3000b](rl/delonghi-magnifica-3000b.md)
 
 ## License
 

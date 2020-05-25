@@ -10,6 +10,7 @@ Inspired by [Josh Branchaud's](https://github.com/jbranchaud/til).
 
 ## Categories
 
+* [Unsorted](#unsorted)
 * [RL](#rl)
 
 ---
@@ -17,6 +18,12 @@ Inspired by [Josh Branchaud's](https://github.com/jbranchaud/til).
 ### RL
 
 - [delonghi magnifica 3000b](rl/delonghi-magnifica-3000b.md)
+
+### Unsorted
+
+Single TILs not warranting their own category.
+
+- [IP Codes - dust/water-resistance](unsorted/ip-codes.md)
 
 ## License
 

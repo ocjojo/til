@@ -11,6 +11,7 @@ Inspired by [Josh Branchaud's](https://github.com/jbranchaud/til).
 ## Categories
 
 - [Film](#film)
+- [Raspberry Pi](#raspberry-pi)
 - [RL](#rl)
 - [Unsorted](#unsorted)
 
@@ -20,6 +21,10 @@ Inspired by [Josh Branchaud's](https://github.com/jbranchaud/til).
 
 - [b-roll](film/b-roll.md)
 - [tips](film/tips.md)
+
+### Raspberry Pi
+
+- [Pins/GPIO](raspbi/gpio.md)
 
 ### RL
 

@@ -18,6 +18,7 @@ Inspired by [Josh Branchaud's](https://github.com/jbranchaud/til).
 
 ### Film
 
+- [b-roll](film/b-roll.md)
 - [tips](film/tips.md)
 
 ### RL

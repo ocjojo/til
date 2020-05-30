@@ -13,7 +13,7 @@ Inspired by [Josh Branchaud's](https://github.com/jbranchaud/til).
 - [Film](#film)
 - [Raspberry Pi](#raspberry-pi)
 - [RL](#rl)
-- [Unsorted](#unsorted)
+- [Misc](#misc)
 
 ---
 
@@ -30,11 +30,11 @@ Inspired by [Josh Branchaud's](https://github.com/jbranchaud/til).
 
 - [delonghi magnifica 3000b](rl/delonghi-magnifica-3000b.md)
 
-### Unsorted
+### Misc
 
 Single TILs not warranting their own category.
 
-- [IP Codes - dust/water-resistance](unsorted/ip-codes.md)
+- [IP Codes - dust/water-resistance](misc/ip-codes.md)
 
 ## License
 

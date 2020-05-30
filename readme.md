@@ -10,12 +10,17 @@ Inspired by [Josh Branchaud's](https://github.com/jbranchaud/til).
 
 ## Categories
 
+- [Computer Science](#computer-science)
 - [Film](#film)
 - [Raspberry Pi](#raspberry-pi)
 - [RL](#rl)
 - [Misc](#misc)
 
 ---
+
+### Computer Science
+
+- [Big-O](cs/big-o.md)
 
 ### Film
 

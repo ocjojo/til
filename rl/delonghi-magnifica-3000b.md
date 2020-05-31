@@ -21,6 +21,10 @@ Ich hab mich für Variante 2 entschieden. Obwohl das Bauteil für Saeco Maschine
 
 Zusätzlich zum Ventil hab ich noch O-Ring Dichtungen für den Druckschlauch gekauft.
 
+Der Tausch ist relativ einfach. Ich empfehle ein Bild vom Innenleben zu machen, so dass man sich beim Zusammenbau daran orientieren kann.
+
+Schläuche hab ich mit einem Pfeifenputzer gereinigt.
+
 ---
 Quellen:
 [Komtra Forum](https://komtra.de/forum/index.php/Thread/8941-DeLonghi-ESAM-4400-Magnifica-sehr-laut/)

@@ -6,7 +6,7 @@ Dazu gibt es viele Infos. Oft zu unterschiedlichen Modellen; vergraben in Foren.
 
 ## Generell
 
-Um die Angst vor der Wartung zu nehmen, einfach mal ein [YT Video](yt) schauen. Es ist leichter als ich dachte.
+Um die Angst vor der Wartung zu nehmen, einfach mal ein [YT Video][yt] schauen. Es ist leichter als ich dachte.
 
 Nun kann man sich ggf. auch selbst mit der Maschine vertraut machen um abzuschätzen, ob ggf. Ersatzteile anderer Modelle genug Platz im Gehäuse finden.
 
@@ -28,6 +28,6 @@ Schläuche hab ich mit einem Pfeifenputzer gereinigt.
 ---
 Quellen:
 [Komtra Forum](https://komtra.de/forum/index.php/Thread/8941-DeLonghi-ESAM-4400-Magnifica-sehr-laut/)
-[Youtube](yt)
+[Youtube][yt]
 
 [yt]: https://www.youtube.com/playlist?list=PLJ-9N_7aUPzKk71S5B4PtZDULE6fd6JnV

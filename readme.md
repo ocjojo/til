@@ -39,6 +39,7 @@ Inspired by [Josh Branchaud's](https://github.com/jbranchaud/til).
 
 Single TILs not warranting their own category.
 
+- [GbR gründen](misc/gbr.md)
 - [IP Codes - dust/water-resistance](misc/ip-codes.md)
 
 ## License
